@@ -1,5 +1,4 @@
-# Ola_Portfolio
-My Data Analysis Projects
+# My Data Analysis Projects
 
 ## Environmental Projects:
 
