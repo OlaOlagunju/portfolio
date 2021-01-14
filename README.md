@@ -1,6 +1,4 @@
-# My Data Analysis Projects
-
-## Environmental Projects:
+## Environmental/Wastewater Projects:
 
 ## Project 1: Calculating the Limit of Stokesian Settling in Wastewater
 -	Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS) 
