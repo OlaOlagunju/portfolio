@@ -5,7 +5,7 @@
 - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
 - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
 
-![](../images/fig_14.jpg)
+![](./images/fig_14.jpg)
 
 
 
@@ -23,30 +23,30 @@
 ## [Project 3: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
 - 
 
-![](../images/fig_1.png)
+![](./images/fig_1.png)
 
 
 
 ## [Project 4: Analyzing NYC High School SAT Scores](https://github.com/OlaOlagunju/SAT_Scores_Project)
 - 
 
-![](../images/fig_6.png)
+![](./images/fig_6.png)
 
 
 
 ## [Project 5: Analyzing Employee Exit Surveys](https://github.com/OlaOlagunju/Employee_Survey_Project)
 - 
 
-![](../images/fig_11.png)
-![](../images/fig_2.png)
+![](./images/fig_11.png)
+![](./images/fig_2.png)
 
 
 
 ## [Project 6: Analyzing the Inflation of Fandango Ratings from 2015-2017](https://github.com/OlaOlagunju/Fandango_Ratings_Project)
 - 
 
-![](../images/fig_21.png)
-![](../images/fig_22.png)
+![](./images/fig_21.png)
+![](./images/fig_22.png)
 
 
 
