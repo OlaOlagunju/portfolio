@@ -16,7 +16,7 @@
 - Led daily laboratory research experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
 - Championed a novel way to increase energy recovery in secondary wastewater treatment by 30% while targeting a specific microbial activity under variable influent and temperature conditions in a year
 
-![](../images/fig_3.jpg)
+![](./images/fig_3.jpg)
 
 
 # Business Projects:
