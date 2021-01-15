@@ -5,7 +5,7 @@
 - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
 - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
 
-![](https://github.com/OlaOlagunju/LOSS_Project/blob/main/fig_14.JPG)
+![](https://github.com/OlaOlagunju/LOSS_Project/blob/main/fig_14.jpg)
 
 
 
