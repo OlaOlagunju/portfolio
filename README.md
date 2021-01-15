@@ -30,7 +30,7 @@
 ## [Project 3: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
 - Explored a SQLite database and collected data to find out: top music genres sold in USA, music sales performance by country, employees sales performance, album vs individual track sales and popularity of tracks in the store
 - Proposed that bringing in Rock bands should be the next business venture as they garnered over 50% of tracks sold
-- Proposed to expand marketing efforts in India, due to the large population (over 1.3 billion) and one of the highest customer average lifetime purchases ($91.58)
+- Advocated to expand marketing efforts in India, due to the large population (over 1.3 billion) and one of the highest customer average lifetime purchases ($91.58)
 
 ![](./images/fig_1.png)<br />
 
