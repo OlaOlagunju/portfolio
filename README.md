@@ -16,7 +16,7 @@
 - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range.
 - Developed R algorithms code to analyze the hourly data
 - Led daily laboratory research experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
-- Championed a novel way to increase energy recovery in secondary wastewater treatment by 30% while targeting a specific microbial activity under variable influent and temperature conditions in a year
+- Championed a novel way to increase energy recovery in secondary wastewater treatment by 36% while targeting a specific microbial activity under variable influent and temperature conditions in a year
 
 ![](./images/fig_3.jpg)<br /><br />
 
@@ -28,7 +28,9 @@
 
 # Business Data Projects:
 ## [Project 3: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
-- 
+- Explored a SQLite database and collected data to find out: top music genres sold in USA, music sales performance by country, employees sales performance, album vs individual track sales and popularity of tracks in the store
+- Proposed that bringing in Rock bands should be the next business venture as they garnered over 50% of tracks sold
+- Proposed to expand marketing efforts in India, due to the large population (over 1.3 billion) and one of the highest customer average lifetime purchases ($91.58)
 
 ![](./images/fig_1.png)<br />
 
