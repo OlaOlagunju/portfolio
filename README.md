@@ -37,7 +37,7 @@
 ## [Project 5: Analyzing Employee Exit Surveys](https://github.com/OlaOlagunju/Employee_Survey_Project)
 - 
 
-![](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/fig_1.png)
+![](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/fig_11.png)
 ![](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/fig_2.png)
 
 
@@ -45,8 +45,8 @@
 ## [Project 6: Analyzing the Inflation of Fandango Ratings from 2015-2017](https://github.com/OlaOlagunju/Fandango_Ratings_Project)
 - 
 
-![](https://github.com/OlaOlagunju/Fandango_Ratings_Project/blob/main/fig_1.png)
-![](https://github.com/OlaOlagunju/Fandango_Ratings_Project/blob/main/fig_2.png)
+![](/images/fig_21.png)
+![](/images/fig_22.png)
 
 
 
