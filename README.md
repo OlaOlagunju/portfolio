@@ -5,7 +5,7 @@
 - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
 - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
 
-![](./images/fig_14.jpg)<br />
+![](./images/fig_14.jpg)<pre>
 
 
 
@@ -16,7 +16,7 @@
 - Led daily laboratory research experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
 - Championed a novel way to increase energy recovery in secondary wastewater treatment by 30% while targeting a specific microbial activity under variable influent and temperature conditions in a year
 
-![](./images/fig_3.jpg)<br /><br />
+![](./images/fig_3.jpg)<pre>
 
 
 # Business Projects:
