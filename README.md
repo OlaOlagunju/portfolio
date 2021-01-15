@@ -4,11 +4,11 @@
 -	Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS) 
 - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
 - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
-![](/LOSS_Project/blob/man/fig_14.jpg)
+![](github.com/OlaOlagunju/LOSS_Project/blob/main/fig_14.jpg)
 
 ## [Project 2: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
 - 
-![](/SQL_Business_Project/blob/main/fig_1.png)
+![](github.com/OlaOlagunju/SQL_Business_Project/blob/main/fig_1.png)
 
 ## [Project 3: Using the Oxygen Uptake Rate of Biomass as a Control Parameter in Wastewater Treatment](https://github.com/OlaOlagunju/OUR_Project)
 - Built automated system to continuously (1 hr. cycles) analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and operate PLC’s for pump and sensor I/O
