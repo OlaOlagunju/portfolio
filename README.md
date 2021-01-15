@@ -44,6 +44,7 @@
 
 ![](./images/fig_11.png)<br />
 
+
 ![](./images/fig_2.png)<br />
 
 
@@ -53,9 +54,11 @@
 
 ![](./images/fig_21.png)<br />
 
+
 ![](./images/fig_22.png)<br />
 
 
 
 ## [Project 7: Analyzing the Popularity of Hacker News Posts](https://github.com/OlaOlagunju/Hacker_News_Project)
 - 
+
