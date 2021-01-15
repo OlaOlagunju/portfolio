@@ -19,7 +19,7 @@
 ![](OUR_Project/blob/main/fig_3.jpg)
 
 
-
+#Business Projects:
 ## [Project 3: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
 - 
 
