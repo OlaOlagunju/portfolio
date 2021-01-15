@@ -9,14 +9,7 @@
 
 
 
-## [Project 2: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
-- 
-
-![](https://github.com/OlaOlagunju/SQL_Business_Project/blob/main/fig_1.png)
-
-
-
-## [Project 3: Using the Oxygen Uptake Rate of Biomass as a Control Parameter in Wastewater Treatment](https://github.com/OlaOlagunju/OUR_Project)
+## [Project 2: Using the Oxygen Uptake Rate of Biomass as a Control Parameter in Wastewater Treatment](https://github.com/OlaOlagunju/OUR_Project)
 - Built automated system to continuously (1 hr. cycles) analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and operate PLC’s for pump and sensor I/O
 - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range.
 - Developed R algorithms code to analyze the hourly data
@@ -24,6 +17,13 @@
 - Championed a novel way to increase energy recovery in secondary wastewater treatment by 30% while targeting a specific microbial activity under variable influent and temperature conditions in a year
 
 ![](OUR_Project/blob/main/fig_3.jpg)
+
+
+
+## [Project 3: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
+- 
+
+![](https://github.com/OlaOlagunju/SQL_Business_Project/blob/main/fig_1.png)
 
 
 
