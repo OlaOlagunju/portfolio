@@ -5,7 +5,7 @@
 - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
 - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
 
-![](https://github.com/OlaOlagunju/LOSS_Project/blob/main/fig_14.jpg)
+![](/images/fig_14.jpg)
 
 
 
@@ -16,29 +16,29 @@
 - Led daily laboratory research experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
 - Championed a novel way to increase energy recovery in secondary wastewater treatment by 30% while targeting a specific microbial activity under variable influent and temperature conditions in a year
 
-![](https://github.com/OlaOlagunju/OUR_Project/blob/main/fig_3.jpg)
+![](/images/fig_3.jpg)
 
 
 # Business Projects:
 ## [Project 3: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
 - 
 
-![](https://github.com/OlaOlagunju/SQL_Business_Project/blob/main/fig_1.png)
+![](/images/fig_1.png)
 
 
 
 ## [Project 4: Analyzing NYC High School SAT Scores](https://github.com/OlaOlagunju/SAT_Scores_Project)
 - 
 
-![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_6.png)
+![](/images/fig_6.png)
 
 
 
 ## [Project 5: Analyzing Employee Exit Surveys](https://github.com/OlaOlagunju/Employee_Survey_Project)
 - 
 
-![](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/fig_11.png)
-![](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/fig_2.png)
+![](/images/fig_11.png)
+![](/images/fig_2.png)
 
 
 
