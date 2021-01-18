@@ -26,7 +26,7 @@
 
 # Business Data Projects:
 ## [Project 3: Data Analysis using SQL to guide Business decisions for Chinook](https://github.com/OlaOlagunju/SQL_Business_Project)
-- Explored a SQLite database and collected data to find out: top music genres sold in USA, music sales performance by country, employees sales performance, album vs individual track sales and popularity of tracks in the store
+- Traversed a SQLite database and collected data to find out: top music genres sold in USA, music sales performance by country, employees sales performance, album vs individual track sales and popularity of tracks in the store
 - Proposed that bringing in Rock bands should be the next business venture as they garnered over 50% of tracks sold
 - Advocated to expand marketing efforts in India, due to the large population (over 1.3 billion) and one of the highest customer average lifetime purchases ($91.58)
 
@@ -35,14 +35,17 @@
 
 
 ## [Project 4: Analyzing NYC High School SAT Scores](https://github.com/OlaOlagunju/SAT_Scores_Project)
-- 
+- Investigated SAT Scores of 363 High schools in 32 Districts using pandas. Included alternative High schools in New York City and established association with socio-economic factors in each district
+- Ascertained that African-American and Hispanic students were statistically (16%) more likely to perform worse in SAT exams, due to their residence in low income districts
+- Discovered that schools in more suburban areas (Staten Island & Queens) were likely to perform better in SAT exams than those in the city. Likewise schools with larger class sizes (public schools) perform better than schools with small class sizes
 
 ![](./images/fig_6.png)<br />
 
 
 
 ## [Project 5: Analyzing Employee Exit Surveys](https://github.com/OlaOlagunju/Employee_Survey_Project)
-- 
+- Dissected exit surveys from about 1000 employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia
+- Deduced that employees with tenures longer than 6 years were 50% more likely to resign due to job dissatisfaction than those employees with less than 6 years of experience
 
 ![](./images/fig_11.png)<br />
 
