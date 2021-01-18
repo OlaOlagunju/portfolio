@@ -55,7 +55,7 @@
 
 
 ## [Project 6: Analyzing the Inflation of Fandango Ratings from 2015-2017](https://github.com/OlaOlagunju/Fandango_Ratings_Project)
-- Inspected Fandango movie ratings from 2015-2017, to assess accusations of Fandango unduly increasing the actual ratings
+- Inspected over 300 Fandango movie ratings from 2015-2017, to assess accusations of Fandango unduly increasing the actual ratings
 - Determined that the ratings were not statistically different (p > 0.05) even though Fandango changed their rating algorithm between 2015 and 2017
 
 ![](./images/fig_21.png)<br />
@@ -66,5 +66,6 @@
 
 
 ## [Project 7: Analyzing the Popularity of Hacker News Posts](https://github.com/OlaOlagunju/Hacker_News_Project)
+- Investigated over 300,000 posts on the Hcker News site, examining the popularity of different categories of posts and best times for users to make posts i.e. when the community engagement is at its peak
 - 
 
