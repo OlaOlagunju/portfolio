@@ -45,7 +45,7 @@
 
 ## [Project 5: Analyzing Employee Exit Surveys](https://github.com/OlaOlagunju/Employee_Survey_Project)
 - Dissected exit surveys from about 1000 employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia
-- Deduced that employees with tenures longer than 6 years were 50% more likely to resign due to job dissatisfaction than those employees with less than 6 years of experience
+- Deduced that employees with tenures longer than 6 years were 50% more likely to resign due to job dissatisfaction than those employees with less than 6 years of experience. In addition, age is not statistically significant to job dissatisfaction (p > 0.1)
 
 ![](./images/fig_11.png)<br />
 
