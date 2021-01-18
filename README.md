@@ -67,5 +67,5 @@
 
 ## [Project 7: Analyzing the Popularity of Hacker News Posts](https://github.com/OlaOlagunju/Hacker_News_Project)
 - Investigated over 300,000 posts on the Hcker News site, examining the popularity of different categories of posts and best times for users to make posts i.e. when the community engagement is at its peak
-- 
+- Proposed that user engagement would increase if more posts were made between 8-9pm EST or GMT
 
