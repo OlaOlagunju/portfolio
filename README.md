@@ -35,7 +35,7 @@
 
 
 ## [Project 4: Analyzing NYC High School SAT Scores](https://github.com/OlaOlagunju/SAT_Scores_Project)
-- Investigated SAT Scores of 363 High schools in 32 Districts using python pandas. Included alternative High schools in New York City and established association with socio-economic factors in each district
+- Exploratory Data Analysis (EDA) of SAT Scores from 363 High schools in 32 Districts. Included alternative High schools in New York City and established association with socio-economic factors in each district
 - Ascertained that African-American and Hispanic students were statistically (16%) more likely to perform worse in SAT exams, due to their residence in low income districts
 - Discovered that schools in more suburban areas (Staten Island & Queens) were likely to perform better in SAT exams than those in the city. Likewise schools with larger class sizes (public schools) perform better than schools with small class sizes
 
